@@ -1,19 +1,13 @@
-# URLShortenerTool
+# Linkzip
+ Introducing our powerful URL shortener - condense long web addresses into concise links. Perfect for social media, emails &amp; more. Customize links, track clicks &amp; gain insights with detailed analytics. Simplify your online presence with our intuitive URL shortener. Optimize today!
 
-This project implements a URL shortener tool using https://shrtco.de/docs
-- The User Interface is simple, it has the following structure:
-- input field for inserting the URL that should be shortened
-- a button which will send the request to /shorten endpoint
-- a field to print the 2 clickable shortened links of the given URL
-
+This project is important to me because it was one of the first complete projects I carried out using Angular, Typescript, HTML, and CSS.
+I hope my project meets your requirements to secure the position of the vacancy.
+Regards.
 
 ## Technologies Used:
 - Framework: Angular
 - Language: Typescript, NGRX
-
-## Demo this App:
-- The page is hosted on Netlify at [Url Shortener](https://urlshortenertool.netlify.app)
-
 
 ## Basic Setup:
 - Clone this repository
